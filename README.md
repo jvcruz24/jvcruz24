@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on<br>🤝 I’m looking for a job<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👯
 
 
 ## 🌐 Socials:
