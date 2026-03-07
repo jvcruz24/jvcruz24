@@ -19,18 +19,9 @@
 <summary><b>Skills & Tools</b></summary>
 <br>
 
-<!-- GenAI & Agentic AI (unchanged) -->
-![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![LLMs](https://img.shields.io/badge/LLMs-6366F1?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge&logo=chainlink&logoColor=white)&nbsp;
-![AI Agents](https://img.shields.io/badge/AI_Agents-F97316?style=for-the-badge&logo=robotframework&logoColor=white)&nbsp;
-![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EC4899?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
 <!-- Frontend -->
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcn&logoColor=white)&nbsp;
-![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 
 <!-- Languages -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
