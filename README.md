@@ -9,8 +9,6 @@
 
 👯 Always down to collab on something cool or talk shop about tech.
 
-"First, solve the problem. Then, write the code." – John Johnson
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joncruz24/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jvcruz1998@gmail.com) 
 
