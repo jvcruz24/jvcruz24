@@ -65,3 +65,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jvcruz24&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- ════════════ 💬 RANDOM DEV QUOTE ════════════ -->
+
+### Random Dev Quote-
+<img src="https://raw.githubusercontent.com/jvcruz24/jvcruz24/refs/heads/main/devQuote.png" alt="Random Dev Quote"/>
+    <div align="center">
