@@ -14,7 +14,7 @@
 
 <!-- 💗 Skills & Tools Section -->
 <details open>
-<summary><b>Skills & Tools</b></summary>
+### <summary><b>Skills & Tools</b></summary>
 <br>
 
 <!-- Frontend -->
