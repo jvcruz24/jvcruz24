@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 🚀 Full-stack wizard turning coffee into clean code.
 
 🛠️ Currently vibing with Next.js, Django, and Docker.
@@ -47,7 +47,7 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jvcruz24&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jvcruz24&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvcruz24&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
