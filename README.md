@@ -1,4 +1,4 @@
-## 💫 About Me:
+## About Me:
 🚀 Full-stack wizard turning coffee into clean code.
 
 🛠️ Currently vibing with Next.js, Django, and Docker.
@@ -9,10 +9,10 @@
 
 👯 Always down to collab on something cool or talk shop about tech.
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joncruz24/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jvcruz1998@gmail.com) 
 
-<!-- 💗 Skills & Tools Section -->
+<!-- Skills & Tools Section -->
 ## Skills & Tools:
 <!-- Frontend -->
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
@@ -41,7 +41,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jvcruz24&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jvcruz24&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jvcruz24&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
