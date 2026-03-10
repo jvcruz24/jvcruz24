@@ -50,6 +50,6 @@
 <img src="https://raw.githubusercontent.com/jvcruz24/jvcruz24/refs/heads/main/devQuote.png" alt="Random Dev Quote"/>
 
 ## Certifications
-<a href="https://www.credly.com/badges/cdbac70a-2a49-458d-a574-8152794b8272/public_url" target="_blank" rel="noopener noreferrer">
+<a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/cdbac70a-2a49-458d-a574-8152794b8272/public_url" >
   <img src="https://raw.githubusercontent.com/jvcruz24/jvcruz24/refs/heads/main/aws-cloud-quest-cloud-practitioner-training-badge.png" alt="Aws Certification"/>
 </a>
