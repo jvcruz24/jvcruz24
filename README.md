@@ -49,3 +49,6 @@
 ## Random Dev Quote-
 <img src="https://raw.githubusercontent.com/jvcruz24/jvcruz24/refs/heads/main/devQuote.png" alt="Random Dev Quote"/>
     <div align="center">
+
+## Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cdbac70a-2a49-458d-a574-8152794b8272" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
