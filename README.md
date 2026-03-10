@@ -53,5 +53,3 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.credly.com/badges/cdbac70a-2a49-458d-a574-8152794b8272/public_url" >
   <img src="https://raw.githubusercontent.com/jvcruz24/jvcruz24/refs/heads/main/aws-cloud-quest-cloud-practitioner-training-badge.png" alt="Aws Certification"/>
 </a>
-
-<a href="https://google.com" target="_blank">Click here to test Google</a>
